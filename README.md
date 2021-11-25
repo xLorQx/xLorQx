@@ -1,3 +1,4 @@
+[![](https://raw.githubusercontent.com/xLorQx/xLorQx/master/banner.png)](https://github.com/xLorQx)
 
 <h1>Hi, I'm <a href="https://github.com/xLorQx">xLorQx</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
