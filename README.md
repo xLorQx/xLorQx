@@ -7,7 +7,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xLorQx&theme=tokyonight" />
 </p>
 
-### I use daily: .|.
+### I use daily:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
